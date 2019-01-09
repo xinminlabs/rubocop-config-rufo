@@ -1,12 +1,8 @@
 # Rubocop::Config::Rufo
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rubocop/config/rufo`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Turns off all rubocop cops that are unnecessary or might conflict with rufo.
 
 ## Installation
-
-Add this line to your application's Gemfile:
 
 ```ruby
 gem 'rubocop-config-rufo'
