@@ -18,7 +18,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add to your `.rubocop.yml`
+
+```
+inherit_gem:
+  rubocop-config-rufo: rubocop.yml
+```
+
+Or
+
+```
+inherit_from:
+  - https://raw.githubusercontent.com/xinminlabs/rubocop-config-rufo/master/rubocop.yml
+```
 
 ## Development
 
