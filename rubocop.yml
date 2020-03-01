@@ -1,10 +1,10 @@
 Layout/AccessModifierIndentation:
   Enabled: false
 
-Layout/AlignArray:
+Layout/ArrayAlignment:
   Enabled: false
 
-Layout/AlignHash:
+Layout/HashAlignment:
   Enabled: false
 
 # Layout/AlignParameters
@@ -88,16 +88,16 @@ Layout/ExtraSpacing:
 # Layout/FirstMethodArgumentLineBreak
 # Layout/FirstMethodParameterLineBreak
 
+Layout/AssignmentIndentation:
+  Enabled: false
+
+Layout/FirstArrayElementIndentation:
+  Enabled: false
+
+Layout/FirstHashElementIndentation:
+  Enabled: false
+
 Layout/FirstParameterIndentation:
-  Enabled: false
-
-Layout/IndentArray:
-  Enabled: false
-
-Layout/IndentAssignment:
-  Enabled: false
-
-Layout/IndentHash:
   Enabled: false
 
 # Layout/IndentHeredoc
@@ -211,7 +211,7 @@ Layout/SpaceInsideStringInterpolation:
 Layout/Tab:
   Enabled: false
 
-Layout/TrailingBlankLines:
+Layout/TrailingEmptyLines:
   Enabled: false
 
 Layout/TrailingWhitespace:
