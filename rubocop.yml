@@ -105,6 +105,9 @@ Layout/FirstParameterIndentation:
 Layout/IndentationConsistency:
   Enabled: false
 
+Layout/IndentationStyle:
+  Enabled: false
+
 Layout/IndentationWidth:
   Enabled: false
 
@@ -206,9 +209,6 @@ Layout/SpaceInsideReferenceBrackets:
   Enabled: false
 
 Layout/SpaceInsideStringInterpolation:
-  Enabled: false
-
-Layout/Tab:
   Enabled: false
 
 Layout/TrailingEmptyLines:
